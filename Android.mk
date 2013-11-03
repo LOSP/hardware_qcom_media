@@ -17,4 +17,3 @@ ifneq ($(filter msm8610 msm8226 msm8974 msm8960 apq8084 mpq8092,$(TARGET_BOARD_P
 include $(QCOM_MEDIA_ROOT)/libc2dcolorconvert/Android.mk
 endif
 endif
-endif
